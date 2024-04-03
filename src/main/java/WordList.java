@@ -27,6 +27,5 @@ public class WordList
       else
         i++;
   }
-    return myList;
   }
 }
